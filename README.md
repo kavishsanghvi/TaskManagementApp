@@ -12,9 +12,6 @@ The **Task Management App** is a simple yet powerful task management tool built 
 - **Delete Task**: Remove tasks from the list.
 - **Complete Task**: Mark tasks as complete or incomplete.
 - **Subtasks**: Each task can have subtasks, which must be completed before marking the parent task as complete.
-- **Task Filtering**:
-  - By task status (complete/incomplete).
-  - By category.
 - **Categories**: Predefined and user-defined task categories.
 - **Local Storage Persistence**: Tasks, subtasks, and categories persist across page reloads.
 - **Due Date Notifications**: Highlights overdue tasks and optionally sends a notification when tasks are due soon.
@@ -100,12 +97,6 @@ Here's a high-level overview of the project's structure:
 - Subtasks must have a valid description.
 - A task cannot be marked as complete until all its subtasks are completed.
 - Due dates must be in the future.
-
-## Future Enhancements
-
-- **Notifications**: Add browser notifications for tasks due within the next 24 hours.
-- **Drag-and-drop** task sorting.
-- **User Authentication**: Enable task synchronization across devices with user login.
 
 ## Contact
 <a href="mailto:sanghvi_kavish@yahoo.in">Email</a> | <a href="https://www.linkedin.com/in/kavishsanghvi">LinkedIn</a> | <a href="https://www.medium.com/@kavishsanghvi">Medium</a> | <a href="https://kavishsanghviblog.wordpress.com">Blog</a> | <a href="https://twitter.com/kavishsanghvi25">Twitter</a> | <a href="https://www.facebook.com/kavish.sanghvi.5">Facebook</a> | <a href="https://www.instagram.com/kavishsanghvi96">Instagram</a>
